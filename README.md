@@ -30,7 +30,7 @@ export default {
 
 ## 入参 props
 | 参数      | 类型    |  默认  | 描述  |
-| -------- | -----:   :----: || :----: |
+| -------- | -----: |  :----: | :----: |
 | width | string | 100% | 设置显示图片区域样式的width |
 | height | string | auto | 设置显示图片区域样式的height |
 | hideBtn | boolea | false | 是否显示按钮 |
